@@ -1,0 +1,4 @@
+# Build artifacts
+/dist
+/node_modules
+/.eslintrc.js
